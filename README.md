@@ -78,4 +78,10 @@
     </li>
 </ol>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Egeny-Myasnikov&theme=prussian&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egeny-Myasnikov&show_icons=true&theme=radical&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Egeny-Myasnikov&locale=ru&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <span> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/thank-you-48.png" height="32"/> Спасибо за уделённое время.</span>
