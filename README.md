@@ -1,30 +1,28 @@
-<h1 align="center">Привет! <img src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/Hi.gif" height="32"/> </h1>
-<div style="dispay: flex; gap:10px; color:red;">
+<h1 align="center">Привет! <img src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/Hi.gif" height="32"/> </h1>
     <h2>Меня зовут Мясников Евгений.</h2> 
-    <a href="https://vk.com/fljenya" target="blank"><img src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/vk-48.png" height="32"/></a>
-     <a href="https://t.me/fljenya" target="blank"><img src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/telegram-48.png" height="32"/></a>
-</div>
-<h3><img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/frontend.gif" height="32"/> Я, приемущественно, фронтенд разработчик. </h3>
-<h3> Мой стек на данный момент:</h3>
+    <a href="https://vk.com/fljenya" target="blank"><img src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/vk-48.png" height="32"/></a>
+     <a href="https://t.me/fljenya" target="blank"><img src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/telegram-48.png" height="32"/></a>
+<h3><img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/frontend.gif" height="32"/> Я, приемущественно, фронтенд разработчик. </h3>
+<h3> Мой стек:</h3>
 <hr>
 <h4>Frontend:</h4>
 <ul>
-    <li> <img align="center" src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/html-48.png" height="32"/> HTML. </li>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/css-48.png" height="32"/>  CSS ( Less, SCSS).</li>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/js-48.png" height="32"/>  JavaScript (>ES6).</li>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/react-48.png" height="32"/>  React. </li>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/next.js-48.png" height="32"/> Nextjs.</li>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/vuejs-48.png" height="32"/>  Vue. </li>
+    <li> <img align="center" src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/html-48.png" height="32"/> HTML. </li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/css-48.png" height="32"/>  CSS ( Less, SCSS).</li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/js-48.png" height="32"/>  JavaScript (>ES6).</li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/react-48.png" height="32"/>  React. </li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/next.js-48.png" height="32"/> Nextjs.</li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/vuejs-48.png" height="32"/>  Vue. </li>
 </ul>
 <hr>
 <h4>Backend:</h4>
 <ul>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/nestjs-48.png" height="32"/> Nestjs (just API)</li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/nestjs-48.png" height="32"/> Nestjs (just API)</li>
 </ul>
 <h3>Дополнительные навыки:</h3>
 <ul>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/figma-48.png" height="32"/> Figma. </li>
-    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/photoshop-48.png" height="32"/>  PhotoShop.</li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/figma-48.png" height="32"/> Figma. </li>
+    <li> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/photoshop-48.png" height="32"/>  PhotoShop.</li>
 </ul>
 
 <hr>
@@ -80,4 +78,4 @@
     </li>
 </ol>
 
-<span> <img align="center"  src="https://github.com/Egeny-Myasnikov/my-portfolio/blob/main/thank-you-48.png" height="32"/> Спасибо за уделённое время.</span>
+<span> <img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/thank-you-48.png" height="32"/> Спасибо за уделённое время.</span>
