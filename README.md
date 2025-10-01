@@ -50,7 +50,7 @@
             <li>GULP.</li>
         </ul>
     </li>
-    <li><a href="https://egeny-myasnikov.github.io/todo-List-NativeJS/">Список задач.</a>
+    <li><a href="https://egeny-myasnikov.github.io/todo-List-NativeJS/">Список задач.</a> <a href="https://github.com/Egeny-Myasnikov/todo-List-NativeJS" target="blank">Rep</a> 
      <ul>
             <li>HTML.</li>
             <li>Scss.</li>
