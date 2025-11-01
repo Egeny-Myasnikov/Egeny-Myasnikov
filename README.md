@@ -2,7 +2,7 @@
     <h2>Меня зовут Мясников Евгений.</h2> 
     <a href="https://vk.com/fljenya" target="blank"><img src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/vk-48.png" height="32"/></a>
      <a href="https://t.me/fljenya" target="blank"><img src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/telegram-48.png" height="32"/></a>
-<h3><img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/frontend.gif" height="32"/> Я, приемущественно, фронтенд разработчик. </h3>
+<h3><img align="center"  src="https://github.com/Egeny-Myasnikov/Egeny-Myasnikov/blob/main/frontend.gif" height="32"/> Я, преимущественно, фронтенд разработчик. </h3>
 <h3> Мой стек:</h3>
 <hr>
 <h4>Frontend:</h4>
